@@ -1,0 +1,1 @@
+import randomnames =["Tyler","Andrew","Megan","Daniella"]leader= random.choice(names)print(leader)# 4 randoms number between the range 10 and 30for i in range(4):    print(random.randint(10,30))

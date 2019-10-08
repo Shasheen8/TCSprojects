@@ -1,0 +1,1 @@
+# to not define something twice or moreclass Mammals:    def walk(self):        print("Walk")class Dog(Mammals):    def bark(self):        print("Bark")class Cat(Mammals):    def bloody_Annoying(self):        print("Annoying Creatures")dog1 = Dog()dog1.bark()cat1 = Cat()cat1.bloody_Annoying()
