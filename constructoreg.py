@@ -1,0 +1,1 @@
+#'class is Person - name is object -  method is talk()  'class Person:    def __init__(self,name):        self.name= name    def talk(self):        print(f"Hi I am {self.name}")Shasheen= Person("Shasheen Bandodkar")Shasheen.talk()Anushka= Person("Anushka Telang")Anushka.talk()
